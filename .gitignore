@@ -1,0 +1,8 @@
+*~
+.classpath
+.project
+wesync.jar
+work/
+lib/
+*DS_Store
+.settings
